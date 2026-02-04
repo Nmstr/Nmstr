@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="207.68"
+          width="207.9"
           height="8"
           fill="#3572A5"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="207.68"
+          x="207.9"
           y="0"
-          width="24.17"
+          width="24.2"
           height="8"
           fill="#44a51c"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.85000000000002"
+          x="232.1"
           y="0"
-          width="17.21"
+          width="16.11"
           height="8"
           fill="#355570"
         />
@@ -158,9 +158,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.06000000000003"
+          x="248.20999999999998"
           y="0"
-          width="10.35"
+          width="11.120000000000001"
+          height="8"
+          fill="#178600"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.32999999999998"
+          y="0"
+          width="10.36"
           height="8"
           fill="#E22837"
         />
@@ -168,21 +178,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.41000000000003"
+          x="249.69"
           y="0"
           width="10.32"
           height="8"
           fill="#478CBF"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="249.73000000000002"
-          y="0"
-          width="10.27"
-          height="8"
-          fill="#89e051"
         />
       
       
@@ -191,42 +191,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 83.07%
+        Python 83.16%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#44a51c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        QML 9.67%
+        QML 9.68%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#355570" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GDScript 6.88%
+        GDScript 6.44%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C# 0.45%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#E22837" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         mcfunction 0.14%
       </text>
     </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#478CBF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         GDShader 0.13%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 0.11%
       </text>
     </g>
   </g></g>
